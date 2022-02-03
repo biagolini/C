@@ -5,6 +5,8 @@
 ## A
 
 ## B
+### Busca
+https://github.com/biagolini/buscaC
 
 ## C
 
@@ -31,6 +33,8 @@
 ## N
 
 ## O
+### Ordenação
+https://github.com/biagolini/ordenacaoC
 
 ## P
 
